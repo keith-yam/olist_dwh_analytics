@@ -13,16 +13,16 @@ The core of this project is the [Brazilian E-Commerce Public Dataset by Olist](h
 The project implements a Medallion Architecture within SQL Server to ensure data quality and traceability as it moves from raw files to refined insights.
 
 ### 🥉 Bronze Layer (Raw)
-**Source**: Ingestion of raw CSV files directly into the SQL Server Database.
-**State**: Data is kept in its original form to act as a "Single Source of Truth."
+- **Source**: Ingestion of raw CSV files directly into the SQL Server Database.
+- **State**: Data is kept in its original form to act as a "Single Source of Truth."
 
 ### 🥈 Silver Layer (Refined)
-**Process**: Data cleansing, standardization, and normalization.
-**Goal**: De-duplicating records and handling null values to prepare data for complex modeling.
+- **Process**: Data cleansing, standardization, and normalization.
+- **Goal**: De-duplicating records and handling null values to prepare data for complex modeling.
 
 ### 🥇 Gold Layer (Business)
-**Model**: Data is transformed into a Star Schema (Fact and Dimension tables).
-**Goal**: High-performance tables optimized for BI tools and executive reporting.
+- **Model**: Data is transformed into a Star Schema (Fact and Dimension tables).
+- **Goal**: High-performance tables optimized for BI tools and executive reporting.
 
 <img width="975" height="503" alt="image" src="https://github.com/user-attachments/assets/f91372da-1164-4cc5-bcdf-68234dad6f99" />
 
@@ -39,7 +39,7 @@ Using advanced SQL-based analytics, this project delivers deep dives into the fo
 Impact: These insights empower stakeholders to identify operational bottlenecks, optimize shipping costs, and improve customer satisfaction scores.
 
 ## 🛠️ Tech Stack
-**Database**: Microsoft SQL Server
-**Architecture**: Medallion (Bronze, Silver, Gold)
-**Data Modeling**: Star Schema (Fact/Dimensions)
-**Language**: T-SQL (Stored Procedures, CTEs, Window Functions)
+- **Database**: Microsoft SQL Server
+- **Architecture**: Medallion (Bronze, Silver, Gold)
+- **Data Modeling**: Star Schema (Fact/Dimensions)
+- **Language**: T-SQL (Stored Procedures, CTEs, Window Functions)
