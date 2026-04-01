@@ -31,10 +31,10 @@ The project implements a Medallion Architecture within SQL Server to ensure data
 
 ## 📈 Business Intelligence & Analytics
 Using advanced SQL-based analytics, this project delivers deep dives into the following key performance indicators (KPIs):
-**Product Performance**: Identifying top-tier and underperforming categories.\
-**Sales Trends**: Analyzing historical growth patterns and seasonality.\
-**Sales Forecasting**: Projecting future demand based on historical sales.\
-**Geospatial Distribution**: Mapping customer and seller density across Brazil to optimize logistics.\
+- **Product Performance**: Identifying top-tier and underperforming categories.
+- **Sales Trends**: Analyzing historical growth patterns and seasonality.
+- **Sales Forecasting**: Projecting future demand based on historical sales.
+- **Geospatial Distribution**: Mapping customer and seller density across Brazil to optimize logistics.
 
 Impact: These insights empower stakeholders to identify operational bottlenecks, optimize shipping costs, and improve customer satisfaction scores.
 
@@ -42,4 +42,4 @@ Impact: These insights empower stakeholders to identify operational bottlenecks,
 **Database**: Microsoft SQL Server\
 **Architecture**: Medallion (Bronze, Silver, Gold)\
 **Data Modeling**: Star Schema (Fact/Dimensions)\
-**Language**: T-SQL (Stored Procedures, CTEs, Window Functions)\
+**Language**: T-SQL (Stored Procedures, CTEs, Window Functions)
