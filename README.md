@@ -4,7 +4,7 @@ This project demonstrates a robust, end-to-end ETL and analytics pipeline that c
 
 ## 📊 Project Overview
 
-The core of this project is the Brazilian E-Commerce Public Dataset by Olist, featuring 100k orders spanning 2016 to 2018. This multifaceted dataset provides a 360-degree view of the customer journey, including:
+The core of this project is the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data), featuring 100k orders spanning 2016 to 2018. This multifaceted dataset provides a 360-degree view of the customer journey, including:
 - Logistics: Freight performance and delivery status.
 - Financials: Pricing, payment methods, and revenue.
 - Customer Experience: Product attributes and sentiment analysis from customer reviews.
