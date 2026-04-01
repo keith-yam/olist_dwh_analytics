@@ -22,7 +22,7 @@ The project implements a Medallion Architecture within SQL Server to ensure data
 
 ### 🥇 Gold Layer (Business)
 **Model**: Data is transformed into a Star Schema (Fact and Dimension tables).\
-**Goal**: High-performance tables optimized for BI tools and executive reporting.
+**Goal**: Tables optimized for BI tools, data analytics and machine learning.
 
 <img width="975" height="503" alt="image" src="https://github.com/user-attachments/assets/f91372da-1164-4cc5-bcdf-68234dad6f99" />
 
