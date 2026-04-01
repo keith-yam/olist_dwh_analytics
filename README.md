@@ -17,8 +17,8 @@ The project implements a Medallion Architecture within SQL Server to ensure data
 **State**: Data is kept in its original form to act as a "Single Source of Truth."
 
 ### 🥈 Silver Layer (Refined)
-**Process**: Data cleansing, standardization, and normalization.
-**Goal**: De-duplicating records and handling null values to prepare data for complex modeling.\
+**Process**: Data cleansing, standardization, and normalization.\
+**Goal**: De-duplicating records and handling null values to prepare data for complex modeling.
 
 ### 🥇 Gold Layer (Business)
 **Model**: Data is transformed into a Star Schema (Fact and Dimension tables).\
