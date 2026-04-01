@@ -1,4 +1,4 @@
-🛒 eCommerce Data Warehouse & Analytics Pipeline
+#🛒 eCommerce Data Warehouse & Analytics Pipeline
 This project demonstrates a robust, end-to-end ETL and analytics pipeline that converts raw, fragmented eCommerce data into high-value business intelligence. Leveraging a Medallion Architecture, the pipeline extracts, cleans, and models data to drive strategic decision-making.
 
 📊 Project Overview
